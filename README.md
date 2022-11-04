@@ -1,7 +1,4 @@
-# Lanzilotta Mateo
-# Architecture Decision Record
-
-# Coupons App
+# Lanzilotta Mateo - Architecture Decision Record
 
 ## Status
 
